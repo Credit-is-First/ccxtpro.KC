@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Credit-First/ccxtpro.KC.git"
+    "url": "https://github.com/Credit-is-First/ccxtpro.KC.git"
   },
   "readme": "README.md",
   "scripts": {
@@ -44,7 +44,7 @@
   },
   "types": "./ccxt.pro.d.ts",
   "dependencies": {
-    "ccxt": "git+https://github.com/Credit-First/ccxt.git",
+    "ccxt": "git+https://github.com/Credit-is-First/ccxt.git",
     "ws": "^7.4.6"
   },
   "devDependencies": {
